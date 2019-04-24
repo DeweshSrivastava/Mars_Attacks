@@ -1,4 +1,4 @@
-# Unit 14 | Assignment - JavaScript and DOM Manipulation
+# MARS ATTACKS
 
 ## Background
 
@@ -42,10 +42,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 - - -
 
-**Good luck!**
+**TRUTH HAS MANY FACETS!**
 
 - - -
 
-### Copyright
-
-Data Boot Camp © 2018. All Rights Reserved.
