@@ -6,14 +6,14 @@ Earthings! The Martians are here!  The folks at `UFO's are Coming` have collecte
 
 But it is alot of material. We need to have an convenient way to sort through the material.
 
-We need you to write code that will create a table dynamically based upon a [dataset we provide]./static/js/data.js. We also need to allow our users to filter the table data for specific values. There's a catch though.  We use pure JavaScript, HTML, and CSS, and D3.js on the web pages. They are the coding languages which prove to be validated.
+We need you to write code that will create a table dynamically based upon a [dataset we provide](./static/js/data.js). We also need to allow our users to filter the table data for specific values. There's a catch though.  We use pure JavaScript, HTML, and CSS, and D3.js on the web pages. They are the coding languages which prove to be validated.
 
 
 ## The Task
 
 ### Level 1: Automatic Table and Date Search
 
-* Basic HTML web page or use the [index.html]./index.html file provided (thus build custom page).
+* Basic HTML web page or use the [index.html](./index.html) file provided (thus build custom page).
 
 * Using the UFO dataset in the form of an array of JavaScript objects, script code that appends that table to a new web page and then add new rows of data for each sighting.
 
